@@ -23,7 +23,7 @@ Play the classic Snake game with different levels and score tracking.
 
 ## Screenshots
 
-![Gameplay Screenshot](url_to_your_screenshot)
+![Home page](C:\Users\PRAVEEN\Desktop\Screenshot 2024-07-08 182641.png)
 
 ## Live Demo
 
