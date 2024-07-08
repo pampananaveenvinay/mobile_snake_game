@@ -28,5 +28,5 @@ Play the classic Snake game with different levels and score tracking.
 
 ## Live Demo
 
-Try the game live [here](url_to_your_live_demo).
+Try the game live [here](https://pampananaveenvinay.github.io/mobile_snake_game/).
 
