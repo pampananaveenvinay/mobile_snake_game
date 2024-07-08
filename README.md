@@ -23,7 +23,7 @@ Play the classic Snake game with different levels and score tracking.
 
 ## Screenshots
 
-![Home page](C:\Users\PRAVEEN\Desktop\Screenshot 2024-07-08 182641.png)
+[player interface](https://github.com/pampananaveenvinay/mobile_snake_game/issues/2#issue-2395690885)
 
 ## Live Demo
 
