@@ -1,0 +1,64 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Game Over</title>
+  <meta charset="UTF-8">
+  <style>
+    html, body {
+      height: 100%;
+      margin: 0;
+    }
+
+    body {
+      background: black;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      color: white;
+    }
+
+    .game-over {
+      text-align: center;
+    }
+
+    .game-over h1 {
+      font-size: 48px;
+    }
+
+    .game-over p {
+      font-size: 24px;
+    }
+
+    .home-button {
+      margin-top: 20px;
+    }
+
+    .home-button button {
+      width: 100px;
+      height: 50px;
+      font-size: 18px;
+    }
+  </style>
+</head>
+<body>
+  <div class="game-over">
+    <h1>Game Over</h1>
+    <p id="score"></p>
+    <div class="home-button">
+      <button onclick="window.location.href='home.html';">Home</button>
+    </div>
+  </div>
+  <script>
+    // Function to get URL parameters
+    function getUrlParam(param) {
+      var params = new URLSearchParams(window.location.search);
+      return params.get(param);
+    }
+
+    // Get the score from URL parameters and display it
+    var score = getUrlParam('score');
+    document.getElementById('score').innerText = 'Your score: ' + score;
+  </script>
+</body>
+</html>
