@@ -22,8 +22,9 @@ Play the classic Snake game with different levels and score tracking.
 5. Have fun!
 
 ## Screenshots
-
+![home page interface](https://github.com/pampananaveenvinay/mobile_snake_game/assets/96174281/45247bd2-397a-4610-ab5b-5d4237414312)
 ![player interface](https://github.com/pampananaveenvinay/mobile_snake_game/assets/96174281/9a0cf2fd-8f72-45f3-8fbf-e02cd0e405b6)
+![game over interface](https://github.com/pampananaveenvinay/mobile_snake_game/assets/96174281/01e363d5-3ea5-4b7b-a727-3eeb2dbb6a12)
 
 ## Live Demo
 
